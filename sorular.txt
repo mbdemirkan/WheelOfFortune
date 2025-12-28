@@ -1,0 +1,64 @@
+[
+{
+    "category": "",
+    "answer_phrase": "",
+    "question": ""
+  }
+  ]
+
+Kategori: Günlük Hayat
+Cevap: Diyet pazartesi başlar
+Soru: Her hafta kendimize söz verip tutamadığımız klasik cümle nedir?
+
+Kategori: İlişkiler
+Cevap: Konuşmamız lazım
+Soru: Duyulduğunda ortamın gerildiği o meşhur iki kelime nedir?
+
+Kategori: Günlük Hayat
+Cevap: Bir bölüm daha izleyip uyuyacağım
+Soru: Kimsenin inanmadığı gece planı nedir?
+
+Kategori: Ofis Kültürü
+Cevap: Geri bildiriminiz bizim için değerli
+Soru: Kurumsal maillerin en klişe kapanışı hangisidir?
+
+Kategori: Günlük Hayat
+Cevap: Alarmı ertelemek
+Soru: Sabahları en sık yaptığımız ama pişman olduğumuz şey nedir?
+
+Kategori: Ofis
+Cevap: Yukarıdan geldi
+Soru: Tartışmayı kapatan ama kaynağı belirsiz açıklama hangisidir?
+
+Kategori: Kurumsal İletişim
+Cevap: Şu an önceliğimiz değil
+Soru: “Asla yapılmayacak” anlamına gelen cümle hangisidir?
+
+Kategori: Ofis Gerçeği
+Cevap: Toplantı ihtiyacı
+Soru: Sorun çözülmediğinde otomatik olarak ortaya çıkan refleks nedir?
+
+Kategori: Dizi
+Cevap: Leyla ile Mecnun
+Soru: Absürtlüğü ilerledikçe duygusallaşan, kendi evrenini kuran dizi hangisidir?
+
+Cevap: Clean Code
+Soru: Okuyana saygı.
+
+Cevap: Dependency
+Soru: Onsuz çalışmayan şey.
+
+Cevap: Scalability
+Soru: Küçükken sorun olmayan şey.
+
+Cevap: Legacy Code
+Soru: Kim yazdı bilmiyoruz.
+
+Psikoloji
+Cevap: Dunning Kruger etkisi
+Soru: Bilgiyle ters orantılı özgüven.
+
+Kategori: İstanbul
+📌 Soru: Boğazın ortasında yalnız yapı hangisidir?
+Kız Kulesi
+
