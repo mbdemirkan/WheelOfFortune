@@ -1,4 +1,4 @@
-# Çarkıfelek
+# Wheel Of Fortune#
 
 A web-based Wheel of Fortune (Çarkıfelek) game built with Vanilla JavaScript and Vite.
 
@@ -11,7 +11,7 @@ A web-based Wheel of Fortune (Çarkıfelek) game built with Vanilla JavaScript a
 
 1. Navigate to the project directory:
    ```bash
-   cd c:/Development/denemeler/WheelOfFortune
+   cd c:/Development/WheelOfFortune
    ```
    *(Or wherever you have cloned/saved the project)*
 
